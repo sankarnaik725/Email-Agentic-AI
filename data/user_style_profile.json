@@ -1,0 +1,33 @@
+{
+  "user_name": "Santhosh Dhanavath",
+  "first_name": "Santhosh",
+  "tone": "Warm, professional, proactive and clear",
+  "preferred_greetings": [
+    "Hi [Name],",
+    "Hello [Name],",
+    "Hey [Name],"
+  ],
+  "preferred_signoffs": [
+    "Best regards,\nSanthosh",
+    "Thanks,\nSanthosh",
+    "Warm regards,\nSanthosh Dhanavath"
+  ],
+  "avg_sentence_length_words": 14,
+  "formality_score": 72,
+  "directness_score": 85,
+  "sample_phrases": [
+    "I hope this finds you well.",
+    "I have reviewed the updates and am on track with my deliverables.",
+    "Please let me know if you need any further details from my end.",
+    "Looking forward to connecting on this."
+  ],
+  "emails_analyzed": 18,
+  "last_trained_at": "October 03, 2026",
+  "style_rules": [
+    "Start with a friendly, direct greeting.",
+    "Acknowledge the core deliverable in the first sentence.",
+    "Keep paragraphs to 2-3 concise sentences maximum.",
+    "Close with an actionable next step or clear availability.",
+    "Sign off with 'Best regards,\nSanthosh' or 'Thanks,\nSanthosh'."
+  ]
+}

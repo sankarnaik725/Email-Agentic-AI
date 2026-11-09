@@ -1,0 +1,31 @@
+{
+  "active_account_id": "demo",
+  "accounts": [
+    {
+      "id": "personal_gmail",
+      "name": "Personal Gmail",
+      "email": "your_email@gmail.com",
+      "type": "Gmail IMAP/SMTP",
+      "badge": "Gmail IMAP",
+      "avatar": "SD",
+      "color": "#ea4335",
+      "imap_host": "imap.gmail.com",
+      "imap_port": 993,
+      "imap_user": "your_email@gmail.com",
+      "imap_password": "",
+      "is_default": true,
+      "removable": false
+    },
+    {
+      "id": "demo",
+      "name": "Simulated Executive Mailbox",
+      "email": "demo-executive@antigravity.ai",
+      "type": "Synthetic Stream",
+      "badge": "Simulation",
+      "avatar": "🚀",
+      "color": "#6366f1",
+      "is_default": false,
+      "removable": false
+    }
+  ]
+}
