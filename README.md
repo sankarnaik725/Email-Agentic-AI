@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✦ Antigravity Mail AI — Autonomous Email Triage, Summarization & Action Agent
 
 An intelligent, autonomous AI Mail Agent designed to access your mailbox, read incoming emails, generate executive-level TL;DR summaries, categorize messages by semantic intent and urgency, extract actionable to-do items, detect invoices and financial figures, and produce context-aware smart reply drafts.
@@ -154,3 +155,6 @@ c:\Users\SANTHOSH\Desktop\Projects\mail\
 | `↑` or `k` | Previous email in list |
 | `e` | Open Executive Daily Briefing |
 | `/` | Focus search bar |
+=======
+# Email-Agentic-AI
+>>>>>>> 2cd2b920b0b182aaed822a7a7f6f6a8650cfe051
